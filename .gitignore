@@ -1,0 +1,4 @@
+.vscode/settings.json
+airflow_pyspark/tests/dags/test_dag_example.py
+airflow_pyspark/dags/exampledag.py
+airflow_pyspark/.astro/test_dag_integrity_default.py
